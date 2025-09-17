@@ -1,3 +1,5 @@
+package consumidor;
+
 public class LineItem {
 
     public final long seq;

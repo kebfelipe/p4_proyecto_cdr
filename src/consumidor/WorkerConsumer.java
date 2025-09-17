@@ -1,3 +1,5 @@
+package consumidor;
+
 public class WorkerConsumer implements Runnable {
 
     private final LineQueue queue;

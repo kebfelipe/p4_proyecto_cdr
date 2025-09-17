@@ -1,4 +1,5 @@
-import java.io.File;
+package consumidor;
+
 import java.util.concurrent.atomic.AtomicLong;
 
 public class FileProducer implements Runnable {
