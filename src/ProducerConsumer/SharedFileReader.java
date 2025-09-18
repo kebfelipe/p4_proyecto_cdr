@@ -1,4 +1,4 @@
-package consumidor;
+package ProducerConsumer;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

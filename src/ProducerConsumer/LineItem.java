@@ -1,4 +1,4 @@
-package consumidor;
+package ProducerConsumer;
 
 public class LineItem {
 

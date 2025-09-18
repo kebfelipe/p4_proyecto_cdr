@@ -1,4 +1,4 @@
-package consumidor;
+package ProducerConsumer;
 
 import java.util.concurrent.atomic.AtomicLong;
 
