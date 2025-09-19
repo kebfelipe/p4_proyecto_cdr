@@ -1,8 +1,8 @@
-import GUI.CDRForm;
+import GUI.CDR_Form;
 
 public class Main {
     public static void main(String[] args) {
-        CDRForm cdrForm = new CDRForm();
+        CDR_Form cdrForm = new CDR_Form();
         cdrForm.setVisible(true);
     }
 }
